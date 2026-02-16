@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49e15d3b-8f0c-48ad-a1ba-e758c94059d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/onv1g_rättad_vecka4_puthon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ovn1d_utbpython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ovn1e_veck4_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ovn1g_vecka4_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgv4_puthon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ovn1h_vecka4_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vecka3/v3_utb_03_python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vecka3/v3_utb_04_python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v3_utb_01_python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v3_utb_02_python.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,37 +48,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.onv1g_rättad_vecka4_puthon.executor": "Run",
-    "Python.ovn1d_utbpython.executor": "Run",
-    "Python.ovn1e_veck4_python.executor": "Run",
-    "Python.ovn1g_vecka4_python.executor": "Run",
-    "Python.uppgv4_puthon.executor": "Run",
-    "Python.v3_utb_01_python.executor": "Run",
-    "Python.v3_utb_02_python.executor": "Run",
-    "Python.v3_utb_03_python.executor": "Run",
-    "Python.v3_utb_04_python.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.onv1g_rättad_vecka4_puthon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ovn1d_utbpython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ovn1e_veck4_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ovn1g_vecka4_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ovn1h_vecka4_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uppgv4_puthon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.v3_utb_01_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.v3_utb_02_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.v3_utb_03_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.v3_utb_04_python.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -105,7 +98,8 @@
       <workItem from="1770059438629" duration="1465000" />
       <workItem from="1770116944617" duration="961000" />
       <workItem from="1770118441179" duration="4188000" />
-      <workItem from="1770628577970" duration="3895000" />
+      <workItem from="1770628577970" duration="5378000" />
+      <workItem from="1770639090296" duration="1084000" />
     </task>
     <servers />
   </component>
@@ -132,6 +126,7 @@
     <SUITE FILE_PATH="coverage/utbpython$uppgv4_puthon.coverage" NAME="uppgv4_puthon Coverage Results" MODIFIED="1770630714130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/utbpython$v3_utb_03_python.coverage" NAME="v3_utb_03_python Coverage Results" MODIFIED="1770628887968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vecka3" />
     <SUITE FILE_PATH="coverage/utbpython$ovn1g_vecka4_python.coverage" NAME="ovn1g_vecka4_python Coverage Results" MODIFIED="1770631750274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/utbpython$ovn1h_vecka4_python.coverage" NAME="ovn1h_vecka4_python Coverage Results" MODIFIED="1770636994463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/utbpython$v3_utb_02_python.coverage" NAME="v3_utb_02_python Coverage Results" MODIFIED="1770117702731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
